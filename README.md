@@ -1,2 +1,2 @@
-# awesome-script
+# Awesome-Script
 Commonly used script collection
